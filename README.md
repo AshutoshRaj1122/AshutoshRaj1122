@@ -1,5 +1,6 @@
-## Hi there 👋
-
+## Hi there 😎
+## Im currently learning JAVA 😄    
+## Email at aashutoshraj2004@gmail.com to reach me 📨
 <!--
 **AshutoshRaj1122/AshutoshRaj1122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -11,6 +12,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+
 - ⚡ Fun fact: ...
 -->
